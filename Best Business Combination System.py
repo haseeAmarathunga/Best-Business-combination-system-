@@ -1,4 +1,4 @@
-
+#Author Hasee Amarathunga
 no_of_emp=int(input("How many Employee's Work : "))
 
 jobemp={}
@@ -368,5 +368,5 @@ for i in range(len(xv)):
 def showFormula():
     for k in formula:
         print (k)
-
+#this is the final Output of the program
 showFormula()
