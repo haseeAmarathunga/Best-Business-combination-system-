@@ -368,5 +368,6 @@ for i in range(len(xv)):
 def showFormula():
     for k in formula:
         print (k)
-#this is the final Output of the program
+#this is the final Output of the system.
 showFormula()
+#Developed By Hasitha Amarathunga
