@@ -1,4 +1,4 @@
-#Author Hasee Amarathunga
+#Author HaseeCLasher(Hasitha Amarathunga)
 no_of_emp=int(input("How many Employee's Work : "))
 
 jobemp={}
